@@ -1,4 +1,4 @@
-# Fun Beginner React Mini-Projext
+# Fun Beginner React Mini-Project
 
 Monster Rolodex App!
 
